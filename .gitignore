@@ -1,3 +1,2 @@
-# Data (exclude raw/processed, keep samples)
-/data/raw/
-/data/processed/
+# Ignore the entire data folder (and its contents)
+/data/
