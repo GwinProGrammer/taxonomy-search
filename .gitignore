@@ -4,3 +4,4 @@ gov_docs.csv
 /my_finetuned_model/
 /cpu_results/
 /models/
+/cpu_training_results/
