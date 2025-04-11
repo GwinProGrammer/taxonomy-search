@@ -1,3 +1,5 @@
 # Ignore the entire data folder (and its contents)
 /data/
 gov_docs.csv
+/my_finetuned_model/
+/cpu_results/
