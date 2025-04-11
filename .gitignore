@@ -1,2 +1,3 @@
 # Ignore the entire data folder (and its contents)
 /data/
+gov_docs.csv
